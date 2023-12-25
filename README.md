@@ -1,4 +1,4 @@
-The application is designed to help users organize and manage their weekly tasks efficiently
+The application is designed to help users organize and manage their weekly tasks like mwdical or any other work related task efficiently
 Description: Allows users to create an account by providing basic information.
 Files: register.jsp, RegisterServlet.java, logreg.css
 User Login
